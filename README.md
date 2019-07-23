@@ -1,4 +1,4 @@
-# Front End Web - Udacity
+# Front End Nanodegree - Udacity
 ##### Memory Game
 
 Click the cards to find a match! 
